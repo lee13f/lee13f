@@ -1,0 +1,28 @@
+html {
+  color: whitesmoke ;
+}
+
+.main2 {
+  text-align: center;
+}
+
+.main3 {
+  text-align: center;
+}
+
+
+body {
+  background-repeat: no-repeat;
+}
+
+.profile a{
+  color: #9fa8fc;
+}
+
+a {
+  color: #dadeff;
+}
+
+ul {
+  list-style-type: disc;
+}
