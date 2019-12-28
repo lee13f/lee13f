@@ -1,0 +1,76 @@
+html {
+  color: whitesmoke;
+}
+body, h1, p {
+  margin: 0;
+  padding: 0;
+  }
+  
+  h1 {
+  color: whitesmoke
+  }
+  
+  h2 {
+  color: violet;
+  }
+  
+  .p {
+    line-height: 
+  }
+  
+  p.hl {
+  font-size: 14px;
+  color: whitesmoke
+  }
+  
+  header, .main, nav, footer {
+  padding: 8px;
+  }
+  
+  .content {
+  width: 760px;
+  overflow: hidden;
+  }
+  
+  .main {
+  width: 584px;
+  float: right;
+  }
+
+.main h2 {
+  margin-bottom: 0;
+}
+
+.main h4 {
+  margin-bottom: 5px;
+}
+
+  .sys ul li {
+    list-style-type: disc;
+  }
+  
+  nav {
+  width: 144px;
+  float: left;
+  }
+  
+  nav a:link {
+  color: whitesmoke;
+  }
+  
+  nav a:visited {
+  color: violet
+  }
+  
+  
+  nav li {
+  line-height: 30px;
+  }
+  
+  footer {
+  color: whitesmoke;
+  text-align: center;
+  }
+
+  ul {
+    list-style-type: none;
